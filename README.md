@@ -12,6 +12,11 @@ npm install
 
 This is just an example application.
 
+### Screen Shots
+
+<img src="dumm1.PNG" width="200" title="React List Component">
+<img src="dumm1.PNG" width="200" title="React List Component"> 
+
 ### Building the Application
 
 Start build the application by using command:
