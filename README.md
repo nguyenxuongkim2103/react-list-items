@@ -13,9 +13,10 @@ npm install
 This is just an example application.
 
 ### Screen Shots
-
-<img src="dumm1.PNG" width="200" title="React List Component" style="display: inline">
-<img src="dumm2.PNG" width="200" title="React List Component" style="display: inline"> 
+<div style="display: inline">
+  <img src="dumm1.PNG" width="200" title="React List Component">
+  <img src="dumm2.PNG" width="200" title="React List Component"> 
+<div/>
 
 ### Building the Application
 
